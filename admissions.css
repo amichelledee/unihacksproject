@@ -1,0 +1,21 @@
+h1
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #d57e00 ;
+}
+
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h4
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #853175;
+}
